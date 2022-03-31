@@ -7,5 +7,5 @@ Created on Thu Mar 31 15:56:05 2022
 """
 
 print('1')
-
+print('2')
 print('nat')
